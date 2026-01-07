@@ -5,7 +5,6 @@ out
 .vscode-test
 .jj
 .DS_Store
-AGENTS.md
 
 # Logs
 *.log
