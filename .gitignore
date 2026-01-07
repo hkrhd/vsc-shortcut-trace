@@ -1,0 +1,15 @@
+node_modules
+dist
+out
+*.vsix
+.vscode-test
+.jj
+.DS_Store
+AGENTS.md
+
+# Logs
+*.log
+pnpm-debug.log*
+
+# Coverage
+coverage/
